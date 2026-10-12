@@ -1,0 +1,6 @@
+{
+  "name": "TripGenie — AI Travel Itinerary Generator",
+  "description": "Plan smarter and travel better with personalized day-by-day itineraries, interactive maps, optimized routes, budget breakdown, and AI itinerary modification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
